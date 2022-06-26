@@ -101,8 +101,14 @@ cropped_image=original_img[10:350,320:560]
 plt.axis("off")
 plt.imshow(cropped_image)
 
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ```
 ## Output:
 ### i)Image Translation
