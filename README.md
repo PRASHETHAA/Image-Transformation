@@ -118,6 +118,7 @@ plt.imshow(cropped_image)
 <br>
 <br>
 <br>
+  
 ## Output:
 ### i)Image Translation
 ![image](https://user-images.githubusercontent.com/75234942/165582405-5e7f44cc-63be-4662-aac8-04acf7a965b4.png)
